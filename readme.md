@@ -30,6 +30,10 @@ Abilities
 Install Pokemin-CLI :
 
 ```bash
+  git clone https://github.com/bagusdwii/Pokemin-CLI
+```
+
+```bash
   npm i
   npm i readline
   npm i axios
